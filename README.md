@@ -21,9 +21,7 @@ const mohammadRayhanHabib = {
     currentlyWorking: "MERN Stack Projects",
     currentlyLearning: ["Advanced React", "Next.js", "TypeScript"],
     askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript"],
-    email: "mohammadrayhanhabib@gmail.com",
-    portfolio: "https://phenomenal-cuchufli-fef911.netlify.app/",
-    funFact: "I love building interactive web applications! 🚀"
+    email: "rayhanhabibreal@gmail.com",
 };
 
 <div align="center">

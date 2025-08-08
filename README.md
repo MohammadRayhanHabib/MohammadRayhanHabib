@@ -15,14 +15,13 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
 
 const hriday = {
-    name: "Hriday Sonar",
+    name: "Mohammad Rayhan Habib",
     role: "Frontend Developer",
     location: "Bangladesh 🇧🇩",
     currentlyWorking: "MERN Stack Projects",
     currentlyLearning: ["Advanced React", "Next.js", "TypeScript"],
     askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript"],
-    email: "mdhridaysonar@gmail.com",
-    portfolio: "https://phenomenal-cuchufli-fef911.netlify.app/",
+    email: "rayhanhabibreal@gmail.com",
     funFact: "I love building interactive web applications! 🚀"
 };
 

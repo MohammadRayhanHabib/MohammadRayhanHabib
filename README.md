@@ -37,6 +37,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 ---
 
@@ -68,4 +69,3 @@
 ---
 
 <p align="center"><b>💻 Keep Building. Keep Growing. 🚀</b></p>
-

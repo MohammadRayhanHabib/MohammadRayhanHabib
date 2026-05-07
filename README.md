@@ -1,9 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mohammad Rayhan Habib</h1>
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadrayhanhabib&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+<h1 align="center"> Hi, I'm Rayhan</h1>
 
 ---
 

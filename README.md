@@ -122,20 +122,8 @@ PLAN  →  CODE  →  TEST  →  SHIP  →  IMPROVE
   <img src="./assets/growth-cycle.svg" width="100%" alt="The first 50 problems feel difficult; after 100 you recognize familiar patterns; after 200 to 300 you develop your own approach">
 </p>
 
-## 07 / Connect
-
 <p align="center">
-  <a href="https://github.com/MohammadRayhanHabib"><strong>GitHub</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL"><strong>LinkedIn</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL"><strong>Email</strong></a>
-</p>
-
-<p align="center">
-  <samp>NEXT.JS / TYPESCRIPT / REACT / NODE.JS / GIT</samp>
-</p>
-
-<p align="center">
-  <img src="./assets/forest-footer.svg" width="100%" alt="Stay curious and keep growing">
+  <a href="https://github.com/MohammadRayhanHabib">
+    <img src="./assets/tree-connect-footer.svg" width="100%" alt="Let's build something — connect with Mohammad Rayhan Habib">
+  </a>
 </p>

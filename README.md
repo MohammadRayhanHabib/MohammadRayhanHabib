@@ -119,7 +119,7 @@ PLAN  →  CODE  →  TEST  →  SHIP  →  IMPROVE
 ### Problem-Solving Journey
 
 <p align="center">
-  <img src="./assets/growth-cycle.svg" width="100%" alt="The first 50 problems feel difficult; after 100 everyone recognizes patterns; after 200 to 300 one develops their own approach">
+  <img src="./assets/growth-cycle.svg" width="100%" alt="The first 50 problems feel difficult; after 100 you recognize familiar patterns; after 200 to 300 you develop your own approach">
 </p>
 
 ## 07 / Connect

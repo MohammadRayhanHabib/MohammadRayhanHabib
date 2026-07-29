@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="74" viewBox="0 0 1200 74" role="img" aria-label="Black and white leaf divider">
+  <rect width="1200" height="74" fill="#000000"/>
+  <line x1="35" y1="37" x2="535" y2="37" stroke="#ffffff" stroke-width="2"/>
+  <line x1="665" y1="37" x2="1165" y2="37" stroke="#ffffff" stroke-width="2"/>
+  <path d="M600 55 C599 39 600 25 600 14 M600 34 C583 30 573 22 568 11 M600 27 C615 24 626 16 631 7" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="563" cy="10" rx="12" ry="7" fill="#ffffff" transform="rotate(31 563 10)"/>
+  <ellipse cx="637" cy="7" rx="12" ry="7" fill="#ffffff" transform="rotate(-31 637 7)"/>
+</svg>

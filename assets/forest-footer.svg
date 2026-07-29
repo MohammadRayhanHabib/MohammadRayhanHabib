@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Stay curious and keep growing</title>
+  <desc id="desc">A black and white forest landscape with a moon and a growth message.</desc>
+  <rect width="1200" height="210" fill="#000000"/>
+  <rect x="1" y="1" width="1198" height="208" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="1040" cy="66" r="42" fill="#ffffff"/>
+  <path d="M0 170 Q170 90 340 170 T680 164 T1020 165 T1200 160" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <g fill="#ffffff">
+    <path d="M105 188 L105 169 L66 181 L82 161 L71 164 L93 139 L80 142 L100 119 L91 121 L104 103 L98 105 L110 72 L119 101 L114 100 L128 119 L121 117 L141 141 L129 138 L153 163 L141 160 L157 182 L116 169 L116 188 Z"/>
+    <path d="M1112 191 L1112 172 L1073 184 L1089 163 L1078 166 L1100 140 L1088 143 L1107 120 L1099 122 L1111 104 L1106 106 L1117 72 L1127 102 L1122 100 L1136 120 L1129 118 L1149 142 L1137 139 L1160 166 L1148 162 L1164 185 L1123 172 L1123 191 Z"/>
+  </g>
+  <g fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round">
+    <path d="M110 181 L110 92 M109 124 L91 140 M110 142 L84 160 M111 157 L76 178 M111 117 L125 132 M111 139 L140 158 M111 157 L148 178"/>
+    <path d="M1117 184 L1117 92 M1116 124 L1097 140 M1117 143 L1090 162 M1118 159 L1081 181 M1118 117 L1132 133 M1118 140 L1147 160 M1118 159 L1155 181"/>
+  </g>
+  <text x="600" y="84" fill="#ffffff" font-family="Arial, sans-serif" font-size="30" font-weight="900" text-anchor="middle" letter-spacing="3">STAY CURIOUS. KEEP GROWING.</text>
+  <text x="600" y="119" fill="#ffffff" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="3">ONE PROBLEM AT A TIME</text>
+  <line x1="425" y1="141" x2="775" y2="141" stroke="#ffffff" stroke-width="2"/>
+</svg>
